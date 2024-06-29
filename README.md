@@ -1,1 +1,5 @@
-# powercentre
+- 👋 Hi, Welcome to Power Centre Org
+- 👀 We are interested in Power Electronics, Systems & Automation
+- 🌱 We are learning from our customer's feedback and future demands in AI world
+- 💞️ We are looking to collaborate on new product development and integeration of products
+- 📫 How to reach me? Just drop a message
